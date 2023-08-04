@@ -1,11 +1,43 @@
-<h1 align="center">Hi 👋, I'm federicopinan</h1>
-<h3 align="center">Coming soon software developer...</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=federicopinan&label=Profile%20views&color=0e75b6&style=flat" alt="federicopinan" /> </p>
+<h1>🧉 Federico Piñan</h1>
+ 
+**``Software development student (Web Developer/Front-End Developer)``**
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=federicopinan&show_icons=true&locale=en" alt="federicopinan" /></p>
+Hello there! I'm a self-taught Software-Engineer with the purpose of learning as much as possible to provide and help the entire world with technology-advancing projects/products. I'm currently working on personal projects and improving on everything Front-End related.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=federicopinan&" alt="federicopinan" /></p>
+<h2>💻 Languages and Tools</h2>
 
-- 🌱 I’m currently learning Web-dev
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+
+<img align="left" alt="HTML" width="26px" style="padding:15px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="HTML" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Git" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="NodeJS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Bootstrap" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img align="left" alt="WordPress" width="26px" style="padding:15px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+
+<br />
+<br />
+
+<h2>🌴 Connect with me:</h2>
+ 
+[![website](./imgs/globe-light.svg)](https://freddavidsolisgutierrez.netlify.app/#gh-light-mode-only)
+[![website](./imgs/globe-dark.svg)](https://freddavidsolisgutierrez.netlify.app/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./imgs/youtube-light.svg)](https://www.youtube.com/@codewithfred#gh-light-mode-only)
+[![website](./imgs/youtube-dark.svg)](https://www.youtube.com/@codewithfred#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./imgs/linkedin-light.svg)](https://www.linkedin.com/in/freddavidsolisgutierrez/#gh-light-mode-only)
+[![website](./imgs/linkedin-dark.svg)](https://www.linkedin.com/in/freddavidsolisgutierrez/#gh-dark-mode-only)
+&nbsp;&nbsp;
+<!--- [![website](./imgs/instagram-light.svg)](https://www.instagram.com/fredwilliamszy/#gh-light-mode-only)
+[![website](./imgs/instagram-dark.svg)](https://www.instagram.com/fredwilliamszy/#gh-dark-mode-only) --->
+
+<h2>⚡ Stats<h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=federico&show_icons=true&theme=vision-friendly-dark&hide_border=true" /></p>
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=federicopinan&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
