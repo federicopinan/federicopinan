@@ -1,10 +1,12 @@
 <h1>🧉 Federico Piñan</h1>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=25&duration=3000&pause=750&color=F7003C&background=50202000&vCenter=true&width=500&height=100&lines=Software+Developer+Student)](https://git.io/typing-svg)
+
 **`Software development student (Web Developer/Front-End Developer)`**
 
 [![](https://visitcount.itsvg.in/api?id=f&icon=6&color=9)](https://visitcount.itsvg.in)
 <br>
-Hello there! I'm a self-taught Software-developer student with the purpose of learning as much as possible to provide and help the entire world with technology-advancing projects/products. I'm currently working on personal projects and improving on everything Front-End related. Thanks for passing...
+Hello there! I'm a self-taught Software-Engineer with the purpose of learning as much as possible to provide and help the entire world with technology-advancing projects/products. I'm currently working on personal projects and improving on everything Front-End related.
 
 <h2>💻 Languages and Tools</h2>
 
