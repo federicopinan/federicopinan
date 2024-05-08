@@ -2,7 +2,7 @@
 <br>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Federico Piñan
 ======================================================================================================================================
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=25&duration=3000&pause=750&color=F7003C&background=50202000&vCenter=true&width=500&height=100&lines=Software+Developer+Student)](https://git.io/typing-svg)
+
 Software & Web developer
 ------------------------
 
