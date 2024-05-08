@@ -9,10 +9,7 @@ As a Software & Web developer, I´m dynamic and results-driven. Now I am studyin
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=federicopinan&label=Profile%20views&color=0e75b6&style=flat" alt="federicopinan" /> </p>
 
-</div><h3 align="center">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/federicopinan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="federicopinan" height="30" width="40" /></a><a href="https://linkedin.com/in/federicopinan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="federicopinan" height="30" width="40" /></a></p>
-
+</div><h3 align="left">Connect with me:</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=federicopinan&theme=onedark" alt="federicopinan" /></a> </p>
 
