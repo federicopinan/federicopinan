@@ -8,8 +8,7 @@ Software & Web developer
 
 As a Software & Web developer, I´m dynamic and results-driven. Now I am studying Software development, creating content & working on side projects. My passion lies in leveraging cutting-edge web development technologies to create seamless user experiences. Build sales funnels & Improve companies' branding.
 
-* 🌍  I'm based in Argentina
-* 🖥️  See my portfolio at [federicopinan.com](http://federicopinan.com)
+ 🖥️  See my portfolio at [federicopinan.com](http://federicopinan.com)
 * ✉️  You can contact me at [federicopinan@gmail.com](mailto:federicopinan@gmail.com)
 * 🚀  I'm currently working on [Mengo Consulting Group](http://https://mengo.ca/)
 * 🧠  I'm learning Frontend + Backend
