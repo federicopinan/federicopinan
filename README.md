@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=f&icon=6&color=9)](https://visitcount.itsvg.in)
-<br>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Federico Piñan
 ======================================================================================================================================
 
@@ -8,6 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 As a Software & Web developer, I´m dynamic and results-driven. Now I am studying Software development, creating content & working on side projects. My passion lies in leveraging cutting-edge web development technologies to create seamless user experiences. Build sales funnels & Improve companies' branding.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=federicopinan&label=Profile%20views&color=0e75b6&style=flat" alt="federicopinan" /> </p>
+[![](https://visitcount.itsvg.in/api?id=f&icon=6&color=9)](https://visitcount.itsvg.in)
 
 </div><h3 align="left">Connect with me:</h3>
 
